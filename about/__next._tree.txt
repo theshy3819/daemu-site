@@ -1,0 +1,7 @@
+:HL["/daemu-site/_next/static/chunks/17g46ehkzq56_.css","style"]
+:HL["/daemu-site/_next/static/chunks/1g4b3swy8i_xw.css","style"]
+:HL["/daemu-site/_next/static/media/53897e768d329f66-s.p.3t6q91iet4nsy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/daemu-site/_next/static/media/db545dba463279ae-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"about","h":96,"c":"$Q2"}]]
+0:{"b":"_AKhI9rbyk-ojV1DOztdJ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
